@@ -1,6 +1,6 @@
 # Cyber-Security-BI
 
-
+![Siber Güvenlik BI Paneli](Screenshot From 2026-04-24 16-16-17.png)
 
 **Siber Güvenlik BI**, karmaşık siber güvenlik loglarını ve tehdit verilerini sadece teknik birer metrik olmaktan çıkarıp; tüm departmanlar için anlamlı, stratejik iş zekasına dönüştüren kurumsal çaplı bir BI projesidir. 
 
